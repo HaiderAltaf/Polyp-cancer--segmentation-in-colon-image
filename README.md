@@ -11,7 +11,6 @@ This repository contains a deep learning model based on the UNet architecture fo
 - [Evaluation](#evaluation)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -102,11 +101,3 @@ The results of the model, including accuracy, precision, recall, and F1-score, w
 ## Contributing
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. Make sure to follow the project's code style and include appropriate tests.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize the content based on your specific requirements and project structure.
