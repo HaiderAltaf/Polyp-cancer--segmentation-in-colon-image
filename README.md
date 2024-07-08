@@ -5,7 +5,6 @@ This repository contains a deep learning model based on the UNet architecture fo
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Training](#training)
@@ -17,28 +16,6 @@ This repository contains a deep learning model based on the UNet architecture fo
 ## Introduction
 
 Colorectal cancer is one of the most common types of cancer worldwide. Early detection and removal of polyps during colonoscopy can prevent the development of colorectal cancer. This project leverages the UNet architecture to create a model capable of segmenting polyps in colonoscopy images, aiding in early diagnosis and treatment.
-
-## Installation
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/colon-polyp-detection.git
-    cd colon-polyp-detection
-    ```
-
-2. Create and activate a virtual environment (optional but recommended):
-
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. Install the required dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
