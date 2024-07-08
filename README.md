@@ -5,7 +5,6 @@ This repository contains a deep learning model based on the UNet architecture fo
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
@@ -18,14 +17,6 @@ This repository contains a deep learning model based on the UNet architecture fo
 ## Introduction
 
 Colorectal cancer is one of the most common types of cancer worldwide. Early detection and removal of polyps during colonoscopy can prevent the development of colorectal cancer. This project leverages the UNet architecture to create a model capable of segmenting polyps in colonoscopy images, aiding in early diagnosis and treatment.
-
-## Features
-
-- UNet-based architecture for image segmentation.
-- Supports training and evaluation on custom datasets.
-- Includes data augmentation techniques for improved model generalization.
-- Provides pre-trained weights for quick inference.
-- Simple and easy-to-use interface for training and inference.
 
 ## Installation
 
