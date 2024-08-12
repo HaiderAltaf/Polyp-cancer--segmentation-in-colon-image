@@ -2,6 +2,9 @@
 
 This repository contains a deep learning model based on the UNet architecture for predicting the presence of polyps in colon images. The model aims to assist in the early detection and diagnosis of colorectal cancer by accurately segmenting polyps from colonoscopy images.
 
+## References
+Paper: Long, J., Shelhamer, E., & Darrell, T. (2015). Fully convolutional networks for semantic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3431-3440).
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -12,6 +15,7 @@ This repository contains a deep learning model based on the UNet architecture fo
 - [Results](#results)
 - [Contributing](#contributing)
 
+## Re
 ## Introduction
 
 Colorectal cancer is one of the most common types of cancer worldwide. Early detection and removal of polyps during colonoscopy can prevent the development of colorectal cancer. This project leverages the UNet architecture to create a model capable of segmenting polyps in colonoscopy images, aiding in early diagnosis and treatment.
