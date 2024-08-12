@@ -4,6 +4,7 @@ This repository contains a deep learning model based on the UNet architecture fo
 
 ## References
 Paper: Long, J., Shelhamer, E., & Darrell, T. (2015). Fully convolutional networks for semantic segmentation. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 3431-3440).
+Blog: https://idiotdeveloper.com/polyp-segmentation-using-unet-in-tensorflow-2/
 
 ## Table of Contents
 
